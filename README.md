@@ -1,5 +1,5 @@
 # NewsVideoQA
-This repository is a code base for baselines implementations of the paper "Watching the News: Towards VideoQA Models that can Read (WACV-2023)"
+This repository is a code base for baselines implementations and links to proposed dataset of the paper "Watching the News: Towards VideoQA Models that can Read (WACV-2023)"
 
 [Paper](https://arxiv.org/pdf/2211.05588) | [Dataset](https://rrc.cvc.uab.es/?ch=24&com=downloads)
 
