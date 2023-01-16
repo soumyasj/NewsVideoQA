@@ -1,9 +1,10 @@
 # NewsVideoQA
 This repository is a code base for baselines implementations and links to proposed dataset of the paper "Watching the News: Towards VideoQA Models that can Read (WACV-2023)"
 
-[Paper](https://arxiv.org/pdf/2211.05588) | [Dataset](https://rrc.cvc.uab.es/?ch=24&com=downloads) | [Video](https://youtu.be/QSXxAkyMpQ0)
+          [Paper](https://arxiv.org/pdf/2211.05588) | [Dataset](https://rrc.cvc.uab.es/?ch=24&com=downloads) | [Video](https://youtu.be/QSXxAkyMpQ0)
 
 ![alt text](https://github.com/soumyasj/NewsVideoQA/blob/main/images/task.png?raw=true)
+![alt text](https://github.com/soumyasj/NewsVideoQA/blob/main/images/few_examples_from_dataset.png?raw=true)
 
 ## Baselines
 
