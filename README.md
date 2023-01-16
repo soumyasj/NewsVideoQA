@@ -3,6 +3,8 @@ This repository is a code base for baselines implementations and links to propos
 
 [Paper](https://arxiv.org/pdf/2211.05588) | [Dataset](https://rrc.cvc.uab.es/?ch=24&com=downloads) | [Video](https://youtu.be/QSXxAkyMpQ0)
 
+![alt text](https://github.com/soumyasj/NewsVideoQA/blob/main/images/task.png?raw=true)
+
 ## Baselines
 
 ##### 1. BERT: baselines/BERT
