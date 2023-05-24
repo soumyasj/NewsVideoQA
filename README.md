@@ -8,7 +8,10 @@ This repository provides code implementations for baselines and links to the pro
 ## Task
 
 Video Question Answering methods focus on commonsense reasoning and visual cognition of objects or persons and their interactions over time. Current VideoQA approaches ignore the textual information present in the video. We introduce the ``NewsVideoQA'' dataset that comprises more than 8,600+ QA pairs on 3,000+ news videos obtained from diverse news channels from around the world.
-![Task](https://github.com/soumyasj/NewsVideoQA/blob/main/images/task.png?raw=true)
+
+<p align="center">
+  <img src="https://github.com/soumyasj/NewsVideoQA/blob/main/images/task.png?raw=true" alt="Task" width="600">
+</p>
 
 ## Samples from the Dataset
 <p align="center">
