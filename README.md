@@ -12,7 +12,7 @@ Video Question Answering methods focus on commonsense reasoning and visual cogni
 
 ## Samples from the Dataset
 <p align="center">
-  <img src="https://github.com/soumyasj/NewsVideoQA/blob/main/images/task.png?raw=true" alt="Task" width="600">
+  <img src="https://github.com/soumyasj/NewsVideoQA/blob/main/images/few_examples_from_dataset.png?raw=true" alt="Task" width="600">
 </p>
 
 ## Baselines
