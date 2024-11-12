@@ -2,7 +2,7 @@
 
 This repository provides code implementations for baselines and links to the proposed dataset mentioned in the paper "Watching the News: Towards VideoQA Models that can Read" (WACV-2023).
 
-[![arXiv: 2211.05588](https://img.shields.io/badge/arXiv-2211.05588-brightgreen.svg)](https://arxiv.org/abs/2211.05588) [![webpage: CVIT](https://img.shields.io/badge/webpage-CVIT-blue.svg)](http://cvit.iiit.ac.in/research/projects/cvit-projects/videoqa) [![video: YouTube](https://img.shields.io/badge/video-YouTube-red.svg)](https://www.youtube.com/watch?v=rnCCONldMik)  [![Dataset: CVIT]([https://img.shields.io/badge/dataset-RRC-orange.svg)](https://rrc.cvc.uab.es/?ch=24&com=downloads](https://cvit.iiit.ac.in/images/datasets/newvideosQA/newsvideoQA.tar.gz))
+[![arXiv: 2211.05588](https://img.shields.io/badge/arXiv-2211.05588-brightgreen.svg)](https://arxiv.org/abs/2211.05588) [![webpage: CVIT](https://img.shields.io/badge/webpage-CVIT-blue.svg)](http://cvit.iiit.ac.in/research/projects/cvit-projects/videoqa) [![video: YouTube](https://img.shields.io/badge/video-YouTube-red.svg)](https://www.youtube.com/watch?v=rnCCONldMik) [![Dataset: YouTube](https://img.shields.io/badge/video-YouTube-red.svg)](https://www.youtube.com/watch?v=rnCCONldMik)  
 
 
 ## Task
